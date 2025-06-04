@@ -15193,7 +15193,7 @@
           "map": "MAP_NAVEL_ROCK_ENTRANCE",
           "base_label": "gNavelRock_Entrance0",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15237,7 +15237,7 @@
           "map": "MAP_NAVEL_ROCK_B1F",
           "base_label": "gNavelRock_B1F0",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15281,7 +15281,7 @@
           "map": "MAP_NAVEL_ROCK_UP1",
           "base_label": "gNavelRock_Up10",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15325,7 +15325,7 @@
           "map": "MAP_NAVEL_ROCK_UP2",
           "base_label": "gNavelRock_Up20",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15369,7 +15369,7 @@
           "map": "MAP_NAVEL_ROCK_UP3",
           "base_label": "gNavelRock_Up30",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15413,7 +15413,7 @@
           "map": "MAP_NAVEL_ROCK_UP4",
           "base_label": "gNavelRock_Up40",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15457,7 +15457,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN01",
           "base_label": "gNavelRock_Down010",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15501,7 +15501,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN02",
           "base_label": "gNavelRock_Down020",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15545,7 +15545,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN03",
           "base_label": "gNavelRock_Down030",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15589,7 +15589,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN04",
           "base_label": "gNavelRock_Down040",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15633,7 +15633,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN05",
           "base_label": "gNavelRock_Down050",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15677,7 +15677,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN06",
           "base_label": "gNavelRock_Down060",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15721,7 +15721,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN07",
           "base_label": "gNavelRock_Down070",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15765,7 +15765,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN08",
           "base_label": "gNavelRock_Down080",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15809,7 +15809,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN09",
           "base_label": "gNavelRock_Down090",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15853,7 +15853,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN10",
           "base_label": "gNavelRock_Down100",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15897,7 +15897,7 @@
           "map": "MAP_NAVEL_ROCK_DOWN11",
           "base_label": "gNavelRock_Down110",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
@@ -15941,7 +15941,7 @@
           "map": "MAP_NAVEL_ROCK_FORK",
           "base_label": "gNavelRock_Fork0",
           "land_mons": {
-            "encounter_rate": 0,
+            "encounter_rate": 10,
             "mons": [
               {
                 "min_level": 5,
