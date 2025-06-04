@@ -1185,7 +1185,7 @@ const struct Item gItems[] =
     {
         .name = _("REAPER CLOTH"),
         .itemId = ITEM_REAPER_CLOTH,
-        .price = 5000,
+        .price = 9800,
         .description = sReaperClothDesc,
         .pocket = POCKET_ITEMS,
         .type = ITEM_USE_PARTY_MENU,
@@ -2222,7 +2222,7 @@ const struct Item gItems[] =
     {
         .name = _("KING'S ROCK"),
         .itemId = ITEM_KINGS_ROCK,
-        .price = 100,
+        .price = 9800,
         .holdEffect = HOLD_EFFECT_FLINCH,
         .holdEffectParam = 10,
         .description = sKingsRockDesc,
@@ -2396,7 +2396,7 @@ const struct Item gItems[] =
     {
         .name = _("DRAGON SCALE"),
         .itemId = ITEM_DRAGON_SCALE,
-        .price = 2100,
+        .price = 9800,
         .holdEffect = HOLD_EFFECT_DRAGON_SCALE,
         .holdEffectParam = 10,
         .description = sDragonScaleDesc,
@@ -2616,7 +2616,7 @@ const struct Item gItems[] =
     {
         .name = _("UP-GRADE"),
         .itemId = ITEM_UP_GRADE,
-        .price = 2100,
+        .price = 9800,
         .holdEffect = HOLD_EFFECT_UP_GRADE,
         .description = sUpGradeDesc,
         .pocket = POCKET_ITEMS,
@@ -2715,7 +2715,7 @@ const struct Item gItems[] =
     {
         .name = _("RAZOR CLAW"),
         .itemId = ITEM_RAZOR_CLAW,
-        .price = 5000,
+        .price = 9800,
         .holdEffect = HOLD_EFFECT_SCOPE_LENS,
         .description = sRazorClawDesc,
         .pocket = POCKET_ITEMS,
@@ -2727,7 +2727,7 @@ const struct Item gItems[] =
     {
         .name = _("RAZOR FANG"),
         .itemId = ITEM_RAZOR_FANG,
-        .price = 5000,
+        .price = 9800,
         .holdEffect = HOLD_EFFECT_FLINCH,
         .holdEffectParam = 10,
         .description = sRazorFangDesc,

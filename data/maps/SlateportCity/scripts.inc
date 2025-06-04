@@ -642,6 +642,12 @@ SlateportCity_PokemartPowerItems:
 	.2byte ITEM_SOFT_SAND
 	.2byte ITEM_SPELL_TAG
 	.2byte ITEM_TWISTED_SPOON
+	.2byte ITEM_REAPER_CLOTH
+	.2byte ITEM_KINGS_ROCK
+	.2byte ITEM_UP_GRADE
+	.2byte ITEM_DRAGON_SCALE
+	.2byte ITEM_RAZOR_CLAW
+	.2byte ITEM_RAZOR_FANG
 	.2byte ITEM_NONE
 	release
 	end
